@@ -12,6 +12,16 @@
 --   https://download.microsoft.com/download/2/4/3/24375141-E08D-4803-AB0E-10F2E3A07AAA/AccessDatabaseEngine.exe
 --3. Apply SQL techniques to clean, filter data and finally create views for step 4
 
+--3.1. Checking correct data tables are imported?
+select top 100 * from CovidDeaths$
+order by 3,4
+select top 100 * from CovidVaccinations$
+order by 3,4
 
-
+--3.2. Total cases vs total deaths, total cases vs population
+select location, total_cases, total_deaths, population,
+	(total_deaths/total_cases)*100 as deaths_over_cases_rates,
+	(total_cases/population)*100 as cases_over_population_rates
+from CovidDeaths$
+order by 4 desc
 --4. Apply Tableau to visualize views' data that are given from step 3
