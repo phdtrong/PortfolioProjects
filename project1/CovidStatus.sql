@@ -5,7 +5,8 @@
 --  Excel version: Microsoft Excel 97-2003
 --  Source: Select the data in step 1 to import into your DatabaseName
 --  (*)Issue of SQL Server Excel Import - The 'Microsoft.ACE.OLEDB.12.0' ? 
---   solution is download and then install 32bit version of importer tool as show in this folder
+--   solution is download and then install 32bit version of importer tool as show here
+--   https://download.microsoft.com/download/2/4/3/24375141-E08D-4803-AB0E-10F2E3A07AAA/AccessDatabaseEngine.exe
 --3. Apply SQL techniques to clean, filter data and finally create views for step 4
 
 
