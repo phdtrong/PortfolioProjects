@@ -1,7 +1,7 @@
 /*
-
 Queries used for Tableau Project
-
+Query statements are from Alex the Analyst.
+Main goal is to install, use, apply Public Tableau version for data visualization
 */
 
 
