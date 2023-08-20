@@ -2,7 +2,7 @@
 --0.Project Goal
 -- Install SQL
 -- Working with raw data (ETL)
--- Adapting different SQL levels of beginning, mediate, and advanced
+-- Adapting different SQL levels of beginning, mediate, and advanced (TEMP ,CTE)
 -- Data visualization
 
 --1. Visit ourworldindata.org/covid-deaths to download, 
