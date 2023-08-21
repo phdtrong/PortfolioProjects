@@ -58,3 +58,8 @@ Group by Location, Population, date
 order by PercentPopulationInfected desc
 
 -- B. Copying data to 4 separate excel files and import to Tableau later
+-- 1. Install Public Tableau
+-- 2. Create View for each data file
+-- 3. Drag and drop each view into a dashboard
+-- 4. Save the Tableau file as public file in Tableau account and get shared link
+https://public.tableau.com/app/profile/trong.pham4252/viz/CovidStatusDashboard/Dashboard1
