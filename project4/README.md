@@ -14,3 +14,4 @@ with selective options to get insight of sale data by:<br>
  .Marital Status<br>
  .Educational Level<br>
  .Region<br>
+![image](https://github.com/phdtrong/PortfolioProjects/assets/70780829/e30a9aa0-6966-4704-8e34-33f5d4f58fdc)
