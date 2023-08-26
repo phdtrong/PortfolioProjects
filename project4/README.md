@@ -5,7 +5,7 @@ This project is Data Analytics project that is fully functioned on Excel/ Google
  .Dashboard creation
 Input: Excel Project Dataset.xlsx
 Output: Result.xlsx
----------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------<br>
 The dashboard supports 3 views of:
 
 .Income
