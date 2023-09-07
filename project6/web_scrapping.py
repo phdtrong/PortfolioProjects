@@ -1,4 +1,6 @@
 # Get into real data of the global largest companies (revenue) from Wikipedia source
+# and extract data from it to transform and export to a csv file
+# Result should show in a file named companies.csv for later usage 
 # Step   Description
 # 1      get the web link
 # 2      connect data link
