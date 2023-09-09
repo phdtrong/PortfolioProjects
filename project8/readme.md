@@ -11,7 +11,7 @@ Step    Description
 
 3       From Start button, look for MS SQL SERVER INSTALLATION CENTER
 3.1.      Select tab Installation then select New SQL Standalone installation or add features to an existing installation
-![image](https://github.com/phdtrong/PortfolioProjects/assets/70780829/1103f549-9b4d-47ea-aa00-d6967b5a88c5)
+
 3.2.      Select tab Installation then select Install SQL Server Report Services
 3.3.      Select tab Installation then select Install SQL Server Management Tools (optional - if you did not do step 2 above)
 4.      Open Azure Data Studio and connect with your set sql server instance that is set in 3.1 and 3.2
