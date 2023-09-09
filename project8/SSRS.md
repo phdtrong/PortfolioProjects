@@ -36,7 +36,9 @@ Step    Description
           <img width="355" alt="image" src="https://github.com/phdtrong/PortfolioProjects/assets/70780829/dce8e505-d4fb-4aff-b370-6f856686db9c">
 
 <br>6.3.      See the report link, click to that to see the dashoard of the report server. its format should be 
-            http://username/Reports/browse/
+                http://username/Reports/browse/
+<br>7.        Download and install Report Builder tool thru https://www.microsoft.com/en-us/download/details.aspx?id=53613
+<br>7.1.        Download and install Report Builder tool thru https://www.microsoft.com/en-us/download/details.aspx?id=53613
 Work Cited:
 # (1) install SQL SERVER 2022: SQLSERVER 101 @ https://youtu.be/WdvTb7YKi6Y?si=mhAuZMOQKD1vV5Ap
 # (2) install SSRS: KINSON THE TECH PRO @ https://kindsonthegenius.com/mssql/
