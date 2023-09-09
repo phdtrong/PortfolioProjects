@@ -38,7 +38,13 @@ Step    Description
 <br>6.3.      See the report link, click to that to see the dashoard of the report server. its format should be 
                 http://username/Reports/browse/
 <br>7.        Download and install Report Builder tool thru https://www.microsoft.com/en-us/download/details.aspx?id=53613
-<br>7.1.        Download and install Report Builder tool thru https://www.microsoft.com/en-us/download/details.aspx?id=53613
+<br>8.        Open Microsoft Report Builder to build your report before save as report.rdl format and upload to dashboard link in step 6.3 above
+
+<img width="731" alt="image" src="https://github.com/phdtrong/PortfolioProjects/assets/70780829/06769256-43b9-4ce5-b1f9-6ce40b9748d7">
+
+And here is inside the Sale Report
+<img width="637" alt="image" src="https://github.com/phdtrong/PortfolioProjects/assets/70780829/ee23652f-d5d7-408e-b14c-4a6f24ccd00f">
+
 Work Cited:
 # (1) install SQL SERVER 2022: SQLSERVER 101 @ https://youtu.be/WdvTb7YKi6Y?si=mhAuZMOQKD1vV5Ap
 # (2) install SSRS: KINSON THE TECH PRO @ https://kindsonthegenius.com/mssql/
