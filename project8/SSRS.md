@@ -1,4 +1,4 @@
-How to install 
+This project is for guiding of installing and working with SQL, SSRS, and SSIS 
 1. MS SQL SERVER REPORT SERVICE
 2. MS SQL SERVER INTEGRATION SERVICE
 
