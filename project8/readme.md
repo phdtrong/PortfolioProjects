@@ -16,5 +16,5 @@ Step    Description
 <img width="853" alt="image" src="https://github.com/phdtrong/PortfolioProjects/assets/70780829/95602e59-ef7e-4282-a82d-d440152d4018">
 
 Work Cited:
-(1) SQLSERVER 101 @ https://youtu.be/WdvTb7YKi6Y?si=mhAuZMOQKD1vV5Ap
-(2) KINSON THE TECH PRO @ https://kindsonthegenius.com/mssql/
+# (1) install SQL SERVER 2022: SQLSERVER 101 @ https://youtu.be/WdvTb7YKi6Y?si=mhAuZMOQKD1vV5Ap
+# (2) install SSRS: KINSON THE TECH PRO @ https://kindsonthegenius.com/mssql/
