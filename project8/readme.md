@@ -15,4 +15,6 @@ Step    Description
 4.      Open Azure Data Studio and connect with your set sql server instance that is set in 3.1 and 3.2
 <img width="853" alt="image" src="https://github.com/phdtrong/PortfolioProjects/assets/70780829/95602e59-ef7e-4282-a82d-d440152d4018">
 
-(*) Credit for SQLSERVER 101 @ https://youtu.be/WdvTb7YKi6Y?si=mhAuZMOQKD1vV5Ap
+Work Cited:
+(1) SQLSERVER 101 @ https://youtu.be/WdvTb7YKi6Y?si=mhAuZMOQKD1vV5Ap
+(2) KINSON THE TECH PRO @ https://kindsonthegenius.com/mssql/
