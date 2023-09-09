@@ -1,8 +1,6 @@
 How to install 
 1. MS SQL SERVER REPORT SERVICE
 2. MS SQL SERVER INTEGRATION SERVICE
-3. TRANSACT-SQL
-   in one time ??
 
 Step    Description
 <br>1       Install MS SQL SERVER DEVELOPER EDITION (NEWEST - FREE) (BACK END)
