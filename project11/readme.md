@@ -12,5 +12,5 @@
            IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork_labs_v4_Final Project_DV0101EN-Exercise-Final-Assignment-Part-1-20230614-1686700800.jupyterlite.ipynb
        part 2: As a whole dashboard, directly loading in website
            DV0101EN-Final_Assign_Part_2_Questions.py
-           ![Screenshot 2023-10-02 200005](https://github.com/phdtrong/PortfolioProjects/assets/70780829/b4e672c1-b975-4101-9fe6-2d840313fcf3)
-           ![Screenshot 2023-10-02 201215](https://github.com/phdtrong/PortfolioProjects/assets/70780829/53854ded-9682-499b-ba7e-e2fba5ca6840)
+   ![Screenshot 2023-10-02 200005](https://github.com/phdtrong/PortfolioProjects/assets/70780829/b4e672c1-b975-4101-9fe6-2d840313fcf3)
+   ![Screenshot 2023-10-02 201215](https://github.com/phdtrong/PortfolioProjects/assets/70780829/53854ded-9682-499b-ba7e-e2fba5ca6840)
