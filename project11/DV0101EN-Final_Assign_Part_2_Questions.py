@@ -46,7 +46,8 @@ app.layout = html.Div([
     ]),
     html.Div(dcc.Dropdown(
             id='select-year',
-            options=[{'label': i, 'value': i} for i in year_list]
+            options=[{'label': i, 'value': i} for i in year_list],
+            style={'textAlign': 'center', 'font-size': '20px', 'width':'80%', 'padding':'3px'}
         )),
     html.Div([#TASK 2.3: Add a division for output display
     html.Div(id='output-container', className='chart-grid', style={'display':'flex'}),])
@@ -161,4 +162,3 @@ def update_output_container(selected_statistics, input_year):
 # Run the Dash app
 if __name__ == '__main__':
     app.run_server(debug=True)
-
