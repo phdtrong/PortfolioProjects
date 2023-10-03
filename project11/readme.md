@@ -7,4 +7,6 @@
         - one feature
         - multiple features
 
-2.     
+2.     Two parts of a sale dashboard (recession vs non-recession sale status of the automobile industry)
+       part 1: : As multiple dashboard component, benchmark run-test on Python IDE only
+       part 2: DV0101EN-Final_Assign_Part_2_Questions.py : As a whole dashboard, directly loading in website
