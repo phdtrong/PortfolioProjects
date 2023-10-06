@@ -17,6 +17,8 @@
 
 ![Screenshot 2023-10-02 201215](https://github.com/phdtrong/PortfolioProjects/assets/70780829/cd96b1c5-d671-47de-945e-7c1b620c387d)
 
+
+
 3.    Standalone-project utilized full scope of Data Science named spacex where developers worked to study landing success chances base on trials data of SPACEX ships
         part 1: real-time data with visualization of landing results: spacex_dash_app_1.py
 ![Screenshot 2023-10-05 230305](https://github.com/phdtrong/PortfolioProjects/assets/70780829/2c54d765-724c-4822-b959-8bac3c9ec220)
