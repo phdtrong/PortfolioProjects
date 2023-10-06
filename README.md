@@ -14,3 +14,4 @@ I really do hope this is helpful and helps you land that dream job! :D
 # 5.PYTHON AUTO-SORT FILES
 # 6.PYTHON INDEXING, ORDERING, FILTERING DATA (PYTHON WEB SCRAPPER)
 # 7.POWER BI DATA VISUALIZATION
+# 8+. IBM and STANFORD PROJECTS
