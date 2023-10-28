@@ -1,1 +1,1 @@
-This is a list of all projects for Machine Learning Specialization @ Stanford U ft. Coursera
+This is a list of all projects for TensorFlow Certificate @ Stanford U, DeepLearning.AI ft. Coursera
