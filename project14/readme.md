@@ -1,1 +1,1 @@
-This is a list of professional projects for Unsupervised Learning Algorithms @ Stanford U
+This is a list of all projects for Machine Learning Specialization @ Stanford U ft. Coursera
