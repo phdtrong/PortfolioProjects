@@ -1,7 +1,7 @@
 Database are stored separately as 3 tables under submit_** sql files:
-  submit_CRIME.sql
-  submit_SCHOOL.sql
-  submit_CENSUS.sql
+  submit_ChicagoCensusData.csv (CENSUS table)
+  submit_ChicagoCrimeData.csv (CRIME table)
+  submit_ChicagoPublicSchools.csv (SCHOOL table)
 --1.1.Write and execute a SQL query to list the school names, community names and average attendance for communities with a hardship index of 98. 
 select s.NAME_OF_SCHOOL, s.AVERAGE_STUDENT_ATTENDANCE, 
   c.COMMNITY_AREA_NAME, c.HARDSHIP_INDEX from CENSUS c, SCHOOL s
