@@ -7,4 +7,4 @@ This is a collection of DE multi-projects
 6. Python app for routine ETL pipeline setup with Airflow DAGS: ETL_toll_data.py (Python file is uncomment, Bash file s commented)
 7. Python app for msg. sender(producer) & receiver(consumer) with Kafka broker/streamer: StreamerKafka.sh (Bash file with guide)
 8. Final Cloud Datawarehouse IBM DB2: db2_final.sql
-9. Final Cloud IBM Cognos Analytics with dashboard as cognos_final.jpeg (data link: DataForCognos.csv)
+9. Final Cloud IBM Cognos Analytics with dashboard as IMG_1956.jpeg (data link: DataForCognos.csv)
