@@ -6,4 +6,4 @@ This is a collection of DE multi-projects
 5. Python app for routine ETL pipeline setup with Airflow DAGS: ETL_Server_Access_Log_Processing.py(dag) & Bash file (etl_airflow.sh)
 6. Python app for routine ETL pipeline setup with Airflow DAGS: ETL_toll_data.py (Python file is uncomment, Bash file s commented)
 7. Python app for msg. sender(producer) & receiver(consumer) with Kafka broker/streamer: StreamerKafka.sh (Bash file with guide)
-8. Final IBM DB2: final_db2.sql
+8. Final Cloud Datawarehouse IBM DB2: db2_final.sql
