@@ -8,4 +8,5 @@ This is a collection of DE multi-projects
 7. Python app for msg. sender(producer) & receiver(consumer) with Kafka broker/streamer: StreamerKafka.sh (Bash file with guide)
 8. Final Cloud Datawarehouse IBM DB2: db2_final.sql
 9. Final Cloud IBM Cognos Analytics with dashboard as IMG_1956.jpeg (data link: DataForCognos.csv)
-10. IBM PySpark DataFrame object in Pandas and in Pyspark with ETL: DataFrames.ipynp
+10. PySpark DataFrame object in Pandas and in Pyspark with ETL: DataFrames.ipynp
+11. SparkSQ usage: SparkSQL.ipynp
