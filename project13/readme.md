@@ -9,4 +9,5 @@ This is a collection of DE multi-projects
 8. Final Cloud Datawarehouse IBM DB2: db2_final.sql
 9. Final Cloud IBM Cognos Analytics with dashboard as IMG_1956.jpeg (data link: DataForCognos.csv)
 10. PySpark DataFrame object in Pandas and in Pyspark with ETL: DataFrames.ipynb
-11. SparkSQ usage: SparkSQL.ipynb
+11. SparkSQL usage: SparkSQL.ipynb
+12. PySpark app on extract, load, transform data as Python-like methods of Data Frame type: Final Project 2.ipynb
